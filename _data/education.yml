@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 - course: Undergraduate Academic Computer Science
   institute: University of Science and Technology Houari Boumediene
   dates: 2018 - 2021
@@ -8,3 +9,14 @@
   dates: Fall 2020
   logo: fellowship.svg
   
+=======
+- course: Bachelor
+  institute: De la croix Highschool
+  dates: 2015 - 2018
+  logo:
+
+- course: Undergraduate Academic Computer Science
+  institute: University of Science and Technology Houari Boumediene
+  dates: 2018 - 2021
+  logo: USTHB.png
+>>>>>>> Stashed changes
