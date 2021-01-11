@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello world here's my personal Github web page it's for LHD Build 'Create a Personal Site with GitHub Pages' challenge
   and actually use it to promote myself :3 ofc
 baseurl: "/"
-url: "/portfolio-template"
+url: "https://Jensderpro.github.io"
 twitter_username: mlhacks
 github_username: Jensderpro
 
